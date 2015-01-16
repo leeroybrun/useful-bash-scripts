@@ -7,7 +7,7 @@
 # Remote and local DB name, user & password must be the same.
 #################################################################
 
-REMOTE_IP="xxx.xxx.xxx"
+REMOTE_IP="xxx.xxx.xxx.xxx"
 REMOTE_PORT="22"
 
 echo ""
